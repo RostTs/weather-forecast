@@ -45,4 +45,5 @@
      3.4 Specify forecast parameters in your SomeAPIClient same as in other clients
      
      3.5 The WeatherService will receive your client and will add data from client to calculations
- 4.Run php artisan serve
+     
+     4.Run php artisan serve to start server
