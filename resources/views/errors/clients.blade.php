@@ -18,7 +18,7 @@
                     <h4 class="m-0">Sorry</h4>
                     <h6>We failed to collect forecast in {{$cityName}}</h6>
                     <p>Unfortunately there are some issues with external clients, you can
-                        <span class="text-info"><a href="/form">try again</a></span>, or
+                        <span class="text-info"><a href="/">try again</a></span>, or
                         <span class="text-info">contact us</span></p>
                 </div>
             </div>

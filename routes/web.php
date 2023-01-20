@@ -14,6 +14,6 @@ use App\Http\Controllers\FormController;
 |
 */
 
-Route::get('form', [FormController::class, 'index']);
+Route::get('', [FormController::class, 'index']);
 Route::get('fetch-cities', [FormController::class, 'fetchCity']);
 Route::get('calculate-forecast', [FormController::class, 'calculateForecast']);
